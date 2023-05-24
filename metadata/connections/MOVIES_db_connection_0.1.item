@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_OhkJwPo6Ee2rmal29PDsBg" name="MOVIES_db_connection" id="_2oLSwPo5Ee2rmal29PDsBg" label="MOVIES_db_connection" dataPackage="_Oi_tIPo6Ee2rmal29PDsBg" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/movies?useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:RO+FB7lT4ftdOLVcj46ZUYPJM2jb3DbtB4vkf6e0qM8=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="movies" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_Ohkw0Po6Ee2rmal29PDsBg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_OiL00Po6Ee2rmal29PDsBg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_OiQGQPo6Ee2rmal29PDsBg" tag="Status" value=""/>
+    <taggedValue xmi:id="_OiQGQfo6Ee2rmal29PDsBg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_OiQGQvo6Ee2rmal29PDsBg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_OiQGQ_o6Ee2rmal29PDsBg" tag="Description" value=""/>
+    <taggedValue xmi:id="_OiQGRPo6Ee2rmal29PDsBg" tag="Author" value=""/>
+    <taggedValue xmi:id="_OiQGRfo6Ee2rmal29PDsBg" tag="otherParameter"/>
+    <taggedValue xmi:id="_OipH0Po6Ee2rmal29PDsBg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_OipH0fo6Ee2rmal29PDsBg" tag="DB ProductVersion" value="8.0.31"/>
+    <taggedValue xmi:id="_OipH0vo6Ee2rmal29PDsBg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_Ohkw0fo6Ee2rmal29PDsBg" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Oi_tIPo6Ee2rmal29PDsBg" name="movies" dataManager="_OhkJwPo6Ee2rmal29PDsBg"/>
+</xmi:XMI>
